@@ -6,5 +6,7 @@ int main()
 	printf("hi");
 
 	printf("bye");
+
+	printf("byv 2e");
 	return 0;
 }
